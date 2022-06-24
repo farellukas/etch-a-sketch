@@ -1,0 +1,12 @@
+.main-container {
+    display: grid;
+}
+
+.square {
+    aspect-ratio: 1/1;
+    width: auto;
+}
+
+.filled {
+    background-color: black;
+}
